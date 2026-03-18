@@ -59,3 +59,26 @@
 #tab1{
     display: block;
 }
+
+.cookie-consent {
+    position: fixed;
+    margin:10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(48, 46, 46, 0.8);
+    color: #b9adad;
+    padding: 10px ;
+    border-radius: 20px;
+    display: none;
+
+}
+
+.cookie-consent button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 20px;
+}
