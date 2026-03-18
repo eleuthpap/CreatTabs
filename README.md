@@ -22,4 +22,4 @@ A lightweight, interactive tabs component built with vanilla HTML, CSS, and Java
 
 ---
 
-**Project from:** [roadmap.sh/projects/simple-tabs](https://roadmap.sh/projects/simple-tabs)
+**Project from:** [roadmap.sh/projects/simple-tabs](https://roadmap.sh/projects/simple-tabs) and [roadmap.sh/projects/cookie-consent](https://roadmap.sh/projects/cookie-consent)
